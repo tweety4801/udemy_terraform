@@ -1,0 +1,8 @@
+2025-08-26T11:20:10.685Z [INFO]  Terraform version: 1.6.6
+2025-08-26T11:20:10.686Z [INFO]  Go runtime version: go1.21.5
+2025-08-26T11:20:10.686Z [INFO]  CLI args: []string{"/home/ec2-user/.asdf/installs/terraform/1.6.6/bin/terraform", "init", "-upgrade"}
+2025-08-26T11:20:10.686Z [INFO]  CLI command args: []string{"init", "-upgrade"}
+2025-08-26T11:20:10.726Z [INFO]  backend-s3.aws-base: Retrieved credentials: tf_backend.operation=Configure tf_backend.req_id=df693460-5676-5e5c-ba25-9dcfde398dc7 tf_backend.s3.bucket=udemy-terraform-nonoguchi tf_backend.s3.path=dev/terraform.tfstate tf_aws.credentials_source=EC2RoleProvider
+2025-08-26T11:20:10.763Z [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=df693460-5676-5e5c-ba25-9dcfde398dc7 tf_backend.s3.bucket=udemy-terraform-nonoguchi tf_backend.s3.path=dev/terraform.tfstate
+2025-08-26T11:20:10.769Z [INFO]  backend-s3.aws-base: Retrieved caller identity from STS: tf_backend.operation=Configure tf_backend.req_id=df693460-5676-5e5c-ba25-9dcfde398dc7 tf_backend.s3.bucket=udemy-terraform-nonoguchi tf_backend.s3.path=dev/terraform.tfstate
+2025-08-26T11:20:10.851Z [INFO]  backend-s3: Downloading remote state: tf_backend.operation=Get tf_backend.req_id=6a587f8c-d7b4-c3f0-2b82-58bacafb1247 tf_backend.s3.bucket=udemy-terraform-nonoguchi tf_backend.s3.path=dev/terraform.tfstate
